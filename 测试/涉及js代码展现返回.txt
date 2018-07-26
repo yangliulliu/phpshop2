@@ -1,0 +1,11 @@
+1、js创意广告
+  "mtype":7
+  "adm": "<iframe style=\"width:300px;height:250px;\" scrolling=\"no\" frameborder=\"0\" src=\"http://wl.houyi.baofeng.net/adcms_html/160330jieyunxin2-heziyoutan-0.html\"></iframe>"
+
+2、JPG、PNG、GIF格式
+	"mtype":1
+	"adm": "http://192.168.70.164/qq.png",
+  
+3、swf格式
+  "mtype":5
+  "adm": "http://192.168.70.164/QQ11.swf",
